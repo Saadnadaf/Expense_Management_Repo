@@ -1,1 +1,1 @@
-"# MERN-Expense-Tracker" 
+"# MERN Expense Tracker" 
